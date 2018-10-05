@@ -3,8 +3,8 @@ Simple test of GitHub skillz. Please add a little something to this readme. You 
 
 Hello! Here's my modified file, see changes below:
 
-> Ch-ch-ch-ch-changes
-> Turn and face the strange
-> Ch-ch-changes
+> Ch-ch-ch-ch-changes<br/>
+> Turn and face the strange<br/>
+> Ch-ch-changes<br/>
 > 
 > \--- David Bowie, "Changes"
